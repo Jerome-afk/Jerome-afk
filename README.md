@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerome-afk&label=Profile%20views&color=0e75b6&style=flat" alt="jerome-afk" /> </p>
 
-- 🔭 I’m currently working on [Beyond Regret](https://github.com/Jerome-afk/BeyondRegret)
+- 🔭 I’m currently working on [Finderr](https://github.com/Jerome-afk/Finderr)
 
 - 🌱 I’m currently learning **Javascript, C, C++, C#**
 
