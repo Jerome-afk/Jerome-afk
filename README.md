@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **otienojerome7@gmail.com**
 
-- ⚡ Fun fact **I think I'm sleepy**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
